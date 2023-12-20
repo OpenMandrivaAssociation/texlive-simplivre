@@ -1,6 +1,6 @@
 Name:		texlive-simplivre
-Version:	64280
-Release:	2
+Version:	68376
+Release:	1
 Summary:	Write your books in a simple and clear way
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/simplivre
