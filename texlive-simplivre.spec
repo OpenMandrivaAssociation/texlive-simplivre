@@ -1,5 +1,5 @@
 Name:		texlive-simplivre
-Version:	68376
+Version:	70117
 Release:	1
 Summary:	Write your books in a simple and clear way
 Group:		Publishing
