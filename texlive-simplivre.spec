@@ -3,7 +3,7 @@ Version:	70314
 Release:	1
 Summary:	Write your books in a simple and clear way
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/simplivre
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/simplivre
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/simplivre.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/simplivre.doc.r%{version}.tar.xz
